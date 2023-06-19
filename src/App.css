@@ -1,0 +1,5 @@
+.mainSection {
+    min-height: 93vh;
+    background: url("./components/images/bg-1.webp");
+    position: relative;
+}
